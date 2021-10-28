@@ -25,5 +25,5 @@ We do not need to download the dataset from any external source as we will impor
 - Numpy
 
 # Exceution
-- First run `Train.py` to train CNN model using MNIST dataset and save the model.
-- Then, run `RecognizeDigit.py` to produces a prediction displayed at the webcam by users. The model is loaded and appropriate functions are used to capture video via webcam and pass it as input to the saved model.
+- First run `train.py` to train CNN model using MNIST dataset and save the model.
+- Then, run `recognizedigit.py` to produces a prediction displayed at the webcam by users. The model is loaded and appropriate functions are used to capture video via webcam and pass it as input to the saved model.
